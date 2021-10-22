@@ -1,0 +1,14 @@
+C:\Users\Silvana\source\repos\PMetodos\PMetodos\bin\Debug\PMetodos.exe.config
+C:\Users\Silvana\source\repos\PMetodos\PMetodos\bin\Debug\PMetodos.exe
+C:\Users\Silvana\source\repos\PMetodos\PMetodos\bin\Debug\PMetodos.pdb
+C:\Users\Silvana\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.csproj.AssemblyReference.cache
+C:\Users\Silvana\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.Form1.resources
+C:\Users\Silvana\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.Properties.Resources.resources
+C:\Users\Silvana\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.csproj.GenerateResource.cache
+C:\Users\Silvana\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Silvana\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.exe
+C:\Users\Silvana\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.pdb
+C:\Users\Silvana\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio2.resources
+C:\Users\Silvana\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio3.resources
+C:\Users\Silvana\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio4.resources
+C:\Users\Silvana\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio5.resources
